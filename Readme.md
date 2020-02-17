@@ -11,4 +11,4 @@ I used metasploit for exploit this vulnerability and gain reverse shell of the s
 
 
 
-After getting the shell i went to home directory after that i opened .gopalmath file which containg First flag.
+After getting the shell i went to home directory & opened .gopalmath file which containg First Flag.
