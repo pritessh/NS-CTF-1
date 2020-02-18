@@ -2,7 +2,7 @@
 
 ## Challange: 1
 
-In this challange i did run Nmap on host for identify ports and version of service.
+In this challange i did Nmap scan on host for identify ports and version of service.
 
 ![](https://github.com/pritessh/NS-CTF-1/blob/master/images/1.png)
 
