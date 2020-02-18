@@ -6,7 +6,7 @@ In this challange i did run Nmap on host for identify ports and version of servi
 
 ![](https://github.com/pritessh/NS-CTF-1/blob/master/images/1.png)
 
-Port 80 was opened so i accessed that ip in broswer and it showed following response.
+Port 80 was opened so i accessed that ip in broswer.
 
 ![](https://github.com/pritessh/NS-CTF-1/blob/master/images/2.png)
 
