@@ -45,6 +45,6 @@ In this challange i searched lots of directories and files after that i got one 
 
 ![](https://github.com/pritessh/NS-CTF-1/blob/master/images/11.png)
 
-Then went to trivedi directory which contain Yayati file and I opened file which contain second flag.
+Then i went to trivedi directory which contain Yayati file and I opened file which contain second flag.
 
 ![](https://github.com/pritessh/NS-CTF-1/blob/master/images/12.png)
