@@ -1,4 +1,4 @@
-# CTF Title
+# NS CTF FEB W1
 
 ## Challange: 1
 
